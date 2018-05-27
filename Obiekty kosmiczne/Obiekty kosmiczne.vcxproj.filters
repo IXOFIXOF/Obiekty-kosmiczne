@@ -24,12 +24,48 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ObiektKosmiczny.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Galaktyka.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CzarnaDziura.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Gwiazdozbior.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Gwiazda.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Kwazar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Obiekty kosmiczne.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ObiektKosmiczny.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Galaktyka.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CzarnaDziura.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Gwiazdozbior.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Gwiazda.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Kwazar.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

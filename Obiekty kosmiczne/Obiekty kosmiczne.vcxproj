@@ -145,10 +145,22 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CzarnaDziura.h" />
+    <ClInclude Include="Galaktyka.h" />
+    <ClInclude Include="Gwiazdozbior.h" />
+    <ClInclude Include="Gwiazda.h" />
+    <ClInclude Include="Kwazar.h" />
+    <ClInclude Include="ObiektKosmiczny.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CzarnaDziura.cpp" />
+    <ClCompile Include="Galaktyka.cpp" />
+    <ClCompile Include="Gwiazdozbior.cpp" />
+    <ClCompile Include="Gwiazda.cpp" />
+    <ClCompile Include="Kwazar.cpp" />
+    <ClCompile Include="ObiektKosmiczny.cpp" />
     <ClCompile Include="Obiekty kosmiczne.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
